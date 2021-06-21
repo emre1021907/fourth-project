@@ -1,0 +1,32 @@
+<u> etiketi altı çizili yazar.
+<strong> ve <b> etiketi yazıyı kalınlaştırır.
+<br> etiketi boşluk koymaya yarar. kapatılan bir etiket değildir.
+<i> etiketi italik yazmaya yarar.
+<u> etiketi altı çizili yapar.
+<font> etiketi: yazıya renk, yazı tipi ve yazı büyüklüğü vermekte kullanılır.
+color parametresi yazı rengi için, face parametresi yazı tipi için, size parametresi 
+yazı büyüklüğü içindir.
+<h> etiketleri başlık etiketleri olarak geçer.
+Toplamda bir 16 milyon renk vardır.
+Renkler 3 ana renk (kırmızı, yeşil, mavi) renklerin yoğunlarına göre belirlenir.
+Bu her 3 rengin 255 tane tonu vardır.
+<img> parametresi resim eklemeye yarar.
+src parametresi eklenecek görseli belirtmek,
+width parametresi genişlik,
+height parametresi yükseklik,
+title parametresi açıklama balonu,
+alt parametresi arama motorlarına açıklama 
+border parametresi kenarlık içindir.
+resimlerde boyut küçültme ya da büyltme yaparken oranın bozulmaması için sadece yükseklik
+ya da genişlik parametresi verilirse diğeri otomatik olarak ayarlanır.
+<ol> etiketi sıralı liste etiketidir. Liste elemanları <li> etiketi ile oluşturulur.
+<ul> etiketi sırasız liste etiketidir. Liste elemanları <li> etiketi ile oluşturulur.
+type parametresi, sırasız listenin türünü belirler.square içi dolu kare, dircle içi boş çember anlamına gelir.
+<a> etiketi link etiketidir. Web sayfalarına link vermek(köprü kurmakta) kullanılır. Kapatılan bir etikettir.
+href parametresi yönlenicek sayfanın adının ya da adresinin belirlenmesinde,
+target parametresi yönlenilen sayfanın hangi sekmede açılacağıın belirlenmesinde kullanılır. target="_blank" ise tıklanılan linki yeni sekmede açar.
+href parametresinin içinde kullanılan # işareti yönlenmenin sayfa içi bir durağa olacağını belirler.
+name parametresi, sayfa içi yönlenilecek durağın tanımlamasında kullanılır.
+
+
+
